@@ -1,4 +1,4 @@
-# Improve your day by generating random dog pictures
+# Hei dev! Improve your day by generating random dog pictures
 
 Link to website: https://juniorperuzzo.github.io/random_dog/
 
